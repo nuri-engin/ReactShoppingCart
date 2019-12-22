@@ -1,1 +1,1 @@
-## 🛍️ Simple ecommerce cart application built with React & Redux [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+## 🛍️ Simple ecommerce cart application built with React & Redux 
